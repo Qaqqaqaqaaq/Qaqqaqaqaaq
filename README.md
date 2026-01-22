@@ -1,4 +1,6 @@
-## Hi. I mostly use GitHub for hosting my personal webpage. You should visit it!
+## Hi, I'm Cedric. I mostly use GitHub for hosting my personal webpage. You should visit it!
+
+It explains why I've called this page Qaqqaqaqaaq.
 
 <!--
 **Qaqqaqaqaaq/Qaqqaqaqaaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
